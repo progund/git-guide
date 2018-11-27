@@ -4,4 +4,6 @@ public class Henrikard {
 
   private int b = 12;
 
+  private int c = 32;
+  
 }
